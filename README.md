@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning Full stack developers for 3 months.
+I've been learning Full stack developers for 7 months.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [firstweera357@gmail.com](mailto:firstweera357@gmail.com)
